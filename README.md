@@ -3,7 +3,7 @@
 
 // what is a split orthogonal keyboard 
 ## **What is a dactyl-manuform?**
-[Dactyl-Manuform]([url](https://github.com/abstracthat/dactyl-manuform)) is an open source fork of the famous 3D printed [Dactyl Keyboard]([url](https://github.com/adereth/dactyl-keyboard)) by [Matt Adereth]([url](https://github.com/adereth))
+[Dactyl-Manuform](https://github.com/abstracthat/dactyl-manuform) is an open source fork of the famous 3D printed [Dactyl Keyboard](https://github.com/adereth/dactyl-keyboard) by [Matt Adereth](https://github.com/adereth)
 
 // open source split orthogonal keyboards
 
