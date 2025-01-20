@@ -10,7 +10,7 @@ What I have assembled is [another fork](https://github.com/markdhooper/CMD-dacty
 
 I assembled this keyboard as both a hobby project and for one of my university projects. If you want a detailed breakdown of the assembly process you can check the report I submitted in university. Alternatively you can also watch this [video](https://www.youtube.com/watch?v=CxNKWNKBLMs&t=9s) by the original author of the fork I used. 
 
-The steps taken to build this is briefly explained below.  
+The steps taken to build this are briefly explained below.  
 
 
 ### 1. Print the shell/case with a 3d printer
